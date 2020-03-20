@@ -1,0 +1,137 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  line-height: 2;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 7px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  margin: 10px 20px;
+  font-family: 'Roboto Slab', serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px 0 50px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  padding: 50px;
+}
+
+.profile-description {
+  width: 30%;
+  margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
+
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 100px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-img {
+  width: 15%;
+}
+
+.chillie-img {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.computer-img {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.btn {
+  background:    #15d798;
+  border-radius: 11px;
+  box-shadow:    0 1px #444444;
+  padding:       20px 45px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal bold 26px/1 "Open Sans", sans-serif;
+  text-align:    center;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #ff6f5e;
+}
